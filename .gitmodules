@@ -1,4 +1,4 @@
 [submodule "extern/quicly"]
 	path = extern/quicly
-	url = https://github.com/Project-Faster/quicly.git
+	url = https://github.com/jjjakubo/quicly.git
 	branch = generic-slowstart
